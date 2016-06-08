@@ -3,6 +3,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	background-image: url("http://pre04.deviantart.net/f1fd/th/pre/i/2011/192/5/f/template_menu_chinese_food_by_jotapehq-d3lp9b7.jpg");
+}
+
 h1 {
 	text-align: center;
 	font-size: 75%
