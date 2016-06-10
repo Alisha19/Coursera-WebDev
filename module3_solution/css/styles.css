@@ -1,1 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fff8e7;
+}
+
+/* NAV-BAR */
+
+#header-nav {
+	background-color: #ffecde;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1{
+  font-family: 'Lora', serif;
+  color: #379b81;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#nav-list li {
+	border-bottom: 1px solid black;
+	bottom: -7px;
+}
+
+.container div h2 {
+	font-size: 2.5em;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.row > div {
+	position: relative;
+	font-size: 1.2em;
+	border: 2px solid black;
+	padding: 15px;
+	padding-top: 40px;
+	margin: 0 0px 50px;
+	background-color: #ff4780;
+}
+
+.columns-padded {
+	padding: 25px;
+}
+
+.secTitle {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+
+}
+
+
 
